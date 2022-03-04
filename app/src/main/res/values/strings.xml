@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">conteo</string>
+        <string name="app_text_view_name">2ª. Sabado | ES</string>
     <string name="app_txt_hint">0</string>
 
 </resources>

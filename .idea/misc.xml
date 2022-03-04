@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/custom_input.xml" value="0.2535" />
+        <entry key="app/src/main/res/font/google_sans_bold.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1640625" />
       </map>
     </option>
   </component>
