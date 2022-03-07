@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+ <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Theme.Conteo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
@@ -13,4 +13,10 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+     
+     <style name="BottomNavigation">
+         <item name="android:background">@color/green_cool</item>
+         <item name="android:tint">@color/green_tree_frog</item>
+         <item name="itemTextColor">@color/warm</item>
+     </style>
 </resources>
