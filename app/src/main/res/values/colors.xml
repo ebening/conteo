@@ -14,4 +14,19 @@
     <color name="grey_disabled">#C5CAE9</color>
     <color name="grey_enabled">#FFECB3</color>
     <color name="green">#FF00695C</color>
+
+    <!-- Primary colors-->
+    <color name="emperor">#4b207f</color>
+    <color name="denim">#2f557f</color>
+    <color name="ming">#3e8391</color>
+    <color name="earth">#5e3929</color>
+    <color name="campfire">#e36520</color>
+    <!-- Secondary colors-->
+    <color name="warm">#FFa92d</color>
+    <color name="grapevine">#7f264a</color>
+    <color name="green_tree_frog">#448d21</color>
+    <color name="green_cool">#4D7549</color>
+
+
+
 </resources>
