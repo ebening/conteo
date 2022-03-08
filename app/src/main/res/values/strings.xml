@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">conteo</string>
-        <string name="app_text_view_name">2º. Sabado | ES</string>
+    <string name="app_name">Conteo</string>
+    <string name="app_text_view_es">2º. Sabado | ES</string>
+    <string name="app_text_view_name_cd">2º. Sabado | CD</string>
     <string name="app_txt_hint">0</string>
+
+    <string name="app_menu_conteo">Conteo</string>
+    <string name="app_menu_assistants">Asistentes</string>
+    <string name="app_menu_setting">Configuracion</string>
 
 </resources>
