@@ -7,5 +7,7 @@
     <string name="app_menu_conteo">Conteo</string>
     <string name="app_menu_assistants">Asistentes</string>
     <string name="app_menu_setting">Configuracion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

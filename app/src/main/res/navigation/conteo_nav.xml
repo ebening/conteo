@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/conteo_nav"
+    android:label="@string/app_menu_conteo"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.iasd.conteo.HomeFragment"
+        android:label="@string/app_menu_conteo"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/assistantsFragment"
+        android:name="com.iasd.conteo.AssistantsFragment"
+        android:label="@string/app_menu_assistants"
+        tools:layout="@layout/fragment_assistants" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.iasd.conteo.SettingsFragment"
+        android:label="@string/app_menu_setting"
+        tools:layout="@layout/fragment_settings" />
+</navigation>
